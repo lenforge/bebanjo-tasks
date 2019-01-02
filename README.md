@@ -7,12 +7,18 @@
 
 **New Features**
 1. Audio Track Language- spec doc 6.7 (Production Language)
-    1. Will display on Action Panel in Details tab
-    1. Will display on Brand and Series roll-up pages in synopsis.
+    1. Store in Movida.
+    1. Publish to YouView.
+        1. Will display on Action Panel in Details tab
+        1. Will display on Brand and Series roll-up pages in synopsis.
 1. Subtitle Details - spec doc 8.2 (Accessibility/Subtitles)
-    1. Will display on Action Panel - Summary and Details tabs
+    1. Store in Movida.
+    1. Publish to YouView.
+        1. Will display on Action Panel - Summary and Details tabs
 1. Where the content was produced - spec doc 6.9 (Production Location)
-    1. Not displayed in UI.
+    1. Store in Movida.
+    1. Publish to YouView.
+        1. Not displayed in UI.
     
 *Note: Proper XML format/structure for each new feature will be noted in its respective issue and reference made to the spec doc provided by YouView.
 
