@@ -1,8 +1,19 @@
 # bebanjo-tasks
 Repo for bebanjo tasks
 
-This repo contains issues created for the (hypothetical) expansion of the Movida YouView Metadata Exporter for Len's interview with BeBanjo.
+**Purpose:** This repo contains issues created for the (hypothetical) expansion of the Movida YouView Metadata Exporter for Len's interview with BeBanjo.The purpose of these issues is to summarize the client's requirements for the dev team and denote which new features need to be implemented in order to satisfy client requirements.
 
-The purpose of these issues is to summarize the client's requirements for the dev team and denote which new features need to be implemented to satisfy client requirements.
+**Summary:** The client is launching a new service that showcases foreign language TV content (e.g. episodic Scandinavian crime drama) and requires additional metadata to be stored in Movida and then published to YouView. The content will be presented in its original language with subtitles (none of their existing content is subtitled).
 
-Please contact Len Forgione (lenforgione@gmail.com) with any questions or requests for clarification.
+**Movida // YouView Metadata Exporter - New Features**
+1. Audio Track Language- spec doc 6.7 (Production Language)
+    1. Will display on Action Panel in Details tab
+    1. Will display on Brand and Series roll-up pages in synopsis.
+1. Subtitle Details - spec doc 8.2 (Accessibility/Subtitles)
+    1. Will display on Action Panel - Summary and Details tabs
+1. Where the content was produced - spec doc 6.9 (Production Location)
+    1. Not displayed in UI.
+    
+*Note: Proper XML format/structure for each new feature will be noted in its respective issue and reference made to the spec doc provided by YouView.
+
+Please contact Len Forgione with any questions or requests for clarification: @lenforge or lenforgione@gmail.com.
