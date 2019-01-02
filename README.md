@@ -1,7 +1,7 @@
 # bebanjo-tasks
 Repo for bebanjo tasks
 
-**Purpose:** This repo contains issues created for the (hypothetical) expansion of the Movida YouView Metadata Exporter for Len's interview with BeBanjo.The purpose of these issues is to summarize the client's requirements for the dev team and denote which new features need to be implemented in order to satisfy client requirements.
+**Purpose:** This repo contains issues created for the (hypothetical) expansion of the Movida YouView Metadata Exporter for Len's interview with BeBanjo. The purpose of these issues is to summarize the client's requirements for the dev team and denote which new features need to be implemented in order to satisfy client requirements.
 
 **Summary:** The client is launching a new service that showcases foreign language TV content (e.g. episodic Scandinavian crime drama) and requires additional metadata to be stored in Movida and then published to YouView for this content. The content will be presented in its original language with subtitles (none of their existing content is subtitled). These features are not supported in the current implementation of our YouView Metadata Exporter. Below, please see the features we'll need to implement per client requirements.
 
